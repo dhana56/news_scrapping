@@ -16,8 +16,8 @@ in the terminal using the following command:
 >       pip install requirement.txt
 2. Run the [nbcnewsscrapper.py](https://github.com/dhana56/news_scrapping/blob/master/nbcnewscrapper.py) python file. 
 <br>
-> Output example : <br>
-    >getting the url : https://www.nbcnews.com <br>
+Output example : <br>
+getting the url : https://www.nbcnews.com <br>
 News :  1<br>
 News Heading: 
 :<pre> At least 296 dead after 6.8-magnitude earthquake strikes MoroccoMoroccans posted videos showing some buildings turned to rubble and parts of the famous red walls that surround the old city in historic Marrakech damaged.</pre><br>
