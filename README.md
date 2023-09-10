@@ -14,7 +14,9 @@
 1. Run the [requirement.txt](https://github.com/dhana56/news_scrapping/blob/master/requirement.txt)
 in the terminal using the following command:
 >       pip install requirement.txt
-2. Run the [nbcnewsscrapper.py](https://github.com/dhana56/news_scrapping/blob/master/nbcnewscrapper.py) python file. <br>
+2. Run the [nbcnewsscrapper.py](https://github.com/dhana56/news_scrapping/blob/master/nbcnewscrapper.py) python file. 
+<br>
+<br>
    > Output example : <br><pre>
     >**getting the url** : *https://www.nbcnews.com* <br>
 **News** :  1<br>
